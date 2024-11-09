@@ -1,5 +1,6 @@
 # gogley - 3D Printed Biomimetic Mechatronic Hand Go Controller
 TinyGo version maintains the same functionality as the Arduino code but with several key changes:
+Sorta mirror of [Bionic Hand Delta 1.1](https://willcogley.notion.site/Will-Cogley-Project-Archive-75a4864d73ab4361ab26cabaadaec33a?p=3e7718a58fc34e5ab0736f6c523bee1e&pm=c)
 
 ## Direct I2C Communication:
 
